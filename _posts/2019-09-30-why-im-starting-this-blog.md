@@ -1,5 +1,6 @@
 ---
-layout: post title: "Why I'm starting this blog"
+layout: post 
+title: "Why I'm starting this blog"
 date: 2019-09-30 22:32:13 -0500
 ---
 It's been a little over six years since Edward Snowden first revealed,
